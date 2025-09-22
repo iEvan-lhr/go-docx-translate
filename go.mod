@@ -1,4 +1,4 @@
-module github.com/fumiama/go-docx
+module github.com/iEvan-lhr/go-docx-translate
 
 go 1.20
 
